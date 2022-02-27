@@ -1,3 +1,13 @@
+# JH note
+
+python3 font2img.py {글꼴 파일(ttf, ttc, otf, otc)이 들어간 디렉토리} {화상화하고 싶은 문자열이 들어간 txt} {출력 디렉토리(자동생성)} [options]
+
+python font2img.py font_data/  src_chars_txt/alphabets_hankaku_caps.txt result
+
+- 생성 성공
+
+
+
 # font2img
 フォントファイルから画像生成．
 
